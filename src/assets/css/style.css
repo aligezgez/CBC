@@ -76,7 +76,7 @@ h6 {
 	display: none;
 }
 .nav-scroll {
-	background: #fff;
+	background: linear-gradient(to left, #ad841f, #f2f0a1);
 	-webkit-box-shadow: 0 1px 8px 3px rgba(0, 0, 0, 0.0509803922);
 	box-shadow: 0 1px 8px 3px rgba(0, 0, 0, 0.0509803922);
 	-webkit-transition: all .4s ease;
